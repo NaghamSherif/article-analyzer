@@ -1,4 +1,4 @@
-Article analyzer is a web app that's built using ReactJs and powered by MeaningCloud. It analyzes different articles online using its URL. 
+Article analyzer is a web app that's built using webpack and powered by MeaningCloud. It analyzes different articles online using its URL. 
 
 make sure to have node and npm installed on your machine then follow the below steps:
 
